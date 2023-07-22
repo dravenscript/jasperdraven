@@ -1,0 +1,1 @@
+!function(){var e=document,t=e.getElementsByTagName("script")[0],a=e.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cl.qualaroo.com/ki.js/51398/aVkqoo.js",t.parentNode.insertBefore(a,t)}();
